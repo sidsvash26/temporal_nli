@@ -1,13 +1,12 @@
 # Creation of NLI Dataset
 
-This directory contains the scripts to create the five different NLI recast datasets obtained from the following original datasets:
-1. [UDS-T Duration](http://decomp.io/projects/time/UDS_T_v1.0.zip)
-2. [UDS-T Order](http://decomp.io/projects/time/UDS_T_v1.0.zip)
-3. [TempEval-3](https://www.cs.york.ac.uk/semeval-2013/task1/data/uploads/datasets/tbaq-2013-03.zip)
-4. TimeBank-Dense (Uses TimeBank data from 3.)
-5. Richer Event Description (LDC Catalog No.: LDC2016T23)
+This directory contains the scripts to create the five different NLI recast datasets obtained from the following four original datasets:
+1. [UDS-T Duration and Order](http://decomp.io/projects/time/UDS_T_v1.0.zip)
+2. [TempEval-3](https://www.cs.york.ac.uk/semeval-2013/task1/data/uploads/datasets/tbaq-2013-03.zip)
+3. [TimeBank-Dense](https://www.usna.edu/Users/cs/nchamber/caevo/TimebankDense.T3.txt)
+4. Richer Event Description (LDC Catalog No.: LDC2016T23)
 
-You need to copy these original datasets into the `/data` folder of this repository for the scripts to run.
+You need to copy these original datasets into the `data/` folder of this repository for the scripts to run.
 You also need to copy the [Unimorph english](https://github.com/unimorph/eng/blob/master/eng) to the current directory.
 
 Once you have copied the respective files, you can simply run the following from the terminal 
