@@ -328,8 +328,8 @@ def main():
 	dfs = []
 
 	for folder_name in folder_names:
-		text_loc = "../../data/red/data/source/" + folder_name + "/"
-		label_loc = "../../data/red/data/annotation/" + folder_name + "/"
+		text_loc = "../../data/raw_data/red/data/source/" + folder_name + "/"
+		label_loc = "../../data/raw_data/red/data/annotation/" + folder_name + "/"
 		df = extract_red_dataframe(text_loc, label_loc)
 		dfs.append(df)
 

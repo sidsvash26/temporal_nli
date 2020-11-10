@@ -43,10 +43,10 @@ options = PredPattOpts(resolve_relcl=True,
                         cut=True)
 
 #Data Locations:
-ud_path = "../../data/UD_English-EWT-r1.3/"
-ud_train  =  "../../data/UD_English-EWT-r1.3/en-ud-train.conllu"
-ud_dev  =  "../../data/UD_English-EWT-r1.3/en-ud-dev.conllu"
-ud_test  =  "../../data/UD_English-EWT-r1.3/en-ud-test.conllu"
+ud_path = "../../data/raw_data/UD_English-EWT-r1.3/"
+ud_train  =  "../../data/raw_data/UD_English-EWT-r1.3/en-ud-train.conllu"
+ud_dev  =  "../../data/raw_data/UD_English-EWT-r1.3/en-ud-dev.conllu"
+ud_test  =  "../../data/raw_data/UD_English-EWT-r1.3/en-ud-test.conllu"
 ud_data = [ud_train, ud_dev, ud_test]
 
 # #### Hypothesis Generation Functions

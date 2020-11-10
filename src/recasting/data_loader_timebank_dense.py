@@ -10,10 +10,10 @@ Usage: python data_loader_timebank_dense.py
 
 from data_loader_timebank import *
 
-tb_location = "../../data/timebank_data/TBAQ-cleaned/TimeBank/"
-aq_location = "../../data/timebank_data/TBAQ-cleaned/AQUAINT/"
-tempeval3_test = "../../data/timebank_data/te3-platinum/"
-tb_dense_file_loc = "../../data/timebank_data/timebank-dense/TimebankDense.T3.txt"
+tb_location = "../../data/raw_data/timebank_data/TBAQ-cleaned/TimeBank/"
+aq_location = "../../data/raw_data/timebank_data/TBAQ-cleaned/AQUAINT/"
+tempeval3_test = "../../data/raw_data/timebank_data/te3-platinum/"
+tb_dense_file_loc = "../../data/raw_data/timebank_data/timebank-dense/TimebankDense.T3.txt"
 
 def timebank_extract_doc_info(folder):
 	'''

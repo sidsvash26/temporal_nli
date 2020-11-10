@@ -1,4 +1,4 @@
-####
+###
 # This scripts assumes that the raw data is present in "../../data" folder
 # This script recasts the following 5 datasets into an NLI format:
 # 1. UDST_Durarion
@@ -7,18 +7,32 @@
 # 4. TimeBank-Dense
 # 5. RED Corpus
 #
-# Ths script also assumes that the ENG UNIMORPH file named "eng" is present in the
-# current directory. You can download the file from  here: https://github.com/unimorph/eng
 ###
 
-#Create Unimorph Dictionaries
+#Download and create Unimorph Dictionariesi
+echo "Downloading English unimorph file"
+if [ ! -e "eng" ]; then
+       wget https://raw.githubusercontent.com/unimorph/eng/master/eng
+else
+        echo "eng file already present in the current dir"
+fi
+
 echo "Creating Unimorph dictionaries"
-python unimorph_dicts.py
+if [ ! -e "lemma_to_inflection_dict.pkl" ] && [ ! -e "word_to_lemma_dict.pkl" ]; then
+       python unimorph_dicts.py
+else
+        echo "Unimorph dicts already present in the current dir"
+fi
+
+## Create train. dev. test dirs
+mkdir -p "../../data/train/"
+mkdir -p "../../data/dev/"
+mkdir -p "../../data/test/"
 
 ## Recast UDS-T Duration
 echo "Initialising recasting of UDST Duration"
 python recast_temporal_duration_rte.py \
-                --udstime "../../data/UDS_T_v1.0/time_eng_ud_v1.2_2015_10_30.tsv" \
+                --udstime "../../data/raw_data/UDS_T_v1.0/time_eng_ud_v1.2_2015_10_30.tsv" \
                 --out_train "../../data/train/" \
                 --out_dev "../../data/dev/" \
                 --out_test "../../data/test/"
@@ -26,7 +40,7 @@ python recast_temporal_duration_rte.py \
 ## Recast UDS-T Relation
 echo "Initialising recasting of UDST Relation"
 python recast_temporal_relation_rte.py \
-            --udstime "../../data/UDS_T_v1.0/time_eng_ud_v1.2_2015_10_30.tsv" \
+            --udstime "../../data/raw_data/UDS_T_v1.0/time_eng_ud_v1.2_2015_10_30.tsv" \
             --out_train "../../data/train/" \
             --out_dev "../../data/dev/" \
             --out_test "../../data/test/"

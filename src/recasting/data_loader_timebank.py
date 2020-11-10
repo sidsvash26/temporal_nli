@@ -29,9 +29,9 @@ Created on May 19 11:05:57 2020
 
 @author: sidvash
 """
-tb_location = "../../data/timebank_data/TBAQ-cleaned/TimeBank/"
-aq_location = "../../data/timebank_data/TBAQ-cleaned/AQUAINT/"
-tempeval3_test = "../../data/timebank_data/te3-platinum/"
+tb_location = "../../data/raw_data/timebank_data/TBAQ-cleaned/TimeBank/"
+aq_location = "../../data/raw_data/timebank_data/TBAQ-cleaned/AQUAINT/"
+tempeval3_test = "../../data/raw_data/timebank_data/te3-platinum/"
 
 
 # ## New Functions
