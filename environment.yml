@@ -2,6 +2,7 @@ name: dnc2
 channels:
   - defaults
 dependencies:
+  - python=3.7.0
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - alabaster=0.7.11=py37_0
   - anaconda=5.3.0=py37_0
