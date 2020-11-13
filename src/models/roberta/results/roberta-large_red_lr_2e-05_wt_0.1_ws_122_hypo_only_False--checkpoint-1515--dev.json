@@ -1,0 +1,2962 @@
+{
+    "0": {
+        "index": 0,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The calling started before the doing started.",
+        "pair-id": 4844,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "1": {
+        "index": 1,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The calling started before the doing ended.",
+        "pair-id": 4845,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "2": {
+        "index": 2,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The calling ended before the doing ended.",
+        "pair-id": 4846,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "3": {
+        "index": 3,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing started before the calling started.",
+        "pair-id": 4847,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "4": {
+        "index": 4,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing ended before the calling started.",
+        "pair-id": 4848,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "5": {
+        "index": 5,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing ended before the calling ended.",
+        "pair-id": 4849,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "6": {
+        "index": 6,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The touring started before the speaking started.",
+        "pair-id": 4850,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "7": {
+        "index": 7,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The touring started before the speaking ended.",
+        "pair-id": 4851,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "8": {
+        "index": 8,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The touring ended before the speaking started.",
+        "pair-id": 4852,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "9": {
+        "index": 9,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The touring ended before the speaking ended.",
+        "pair-id": 4853,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "10": {
+        "index": 10,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The speaking started before the touring started.",
+        "pair-id": 4854,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "11": {
+        "index": 11,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The speaking started before the touring ended.",
+        "pair-id": 4855,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "12": {
+        "index": 12,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The speaking ended before the touring started.",
+        "pair-id": 4856,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "13": {
+        "index": 13,
+        "context": "Hu was speaking Monday as he toured a Beijing exhibit on transport and building safety with a group of schoolchildren on the eve of International Children 's Day , the report said .",
+        "hypothesis": "The speaking ended before the touring ended.",
+        "pair-id": 4857,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "14": {
+        "index": 14,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing started before the ensuring started.",
+        "pair-id": 4858,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "15": {
+        "index": 15,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing started before the ensuring ended.",
+        "pair-id": 4859,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "16": {
+        "index": 16,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing ended before the ensuring started.",
+        "pair-id": 4860,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "17": {
+        "index": 17,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The doing ended before the ensuring ended.",
+        "pair-id": 4861,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "18": {
+        "index": 18,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The ensuring started before the doing started.",
+        "pair-id": 4862,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "19": {
+        "index": 19,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The ensuring started before the doing ended.",
+        "pair-id": 4863,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "20": {
+        "index": 20,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The ensuring ended before the doing started.",
+        "pair-id": 4864,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "21": {
+        "index": 21,
+        "context": "Chinese President Hu Jintao has called on the entire nation to do more to ensure the safety of children , state press said Tuesday , in comments that follow a spate of grisly school killings .",
+        "hypothesis": "The ensuring ended before the doing ended.",
+        "pair-id": 4865,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "22": {
+        "index": 22,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The handling started before the resolving started.",
+        "pair-id": 4866,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "23": {
+        "index": 23,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The handling started before the resolving ended.",
+        "pair-id": 4867,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "24": {
+        "index": 24,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The handling ended before the resolving started.",
+        "pair-id": 4868,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "25": {
+        "index": 25,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The handling ended before the resolving ended.",
+        "pair-id": 4869,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "26": {
+        "index": 26,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the handling started.",
+        "pair-id": 4870,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "27": {
+        "index": 27,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the handling ended.",
+        "pair-id": 4871,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "28": {
+        "index": 28,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the handling started.",
+        "pair-id": 4872,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "29": {
+        "index": 29,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the handling ended.",
+        "pair-id": 4873,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "30": {
+        "index": 30,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the resolving started.",
+        "pair-id": 4874,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "31": {
+        "index": 31,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the resolving ended.",
+        "pair-id": 4875,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "32": {
+        "index": 32,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the resolving started.",
+        "pair-id": 4876,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "33": {
+        "index": 33,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the resolving ended.",
+        "pair-id": 4877,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "34": {
+        "index": 34,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the resolving started.",
+        "pair-id": 4878,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "35": {
+        "index": 35,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the resolving ended.",
+        "pair-id": 4879,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "36": {
+        "index": 36,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the resolving started.",
+        "pair-id": 4880,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "37": {
+        "index": 37,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the resolving ended.",
+        "pair-id": 4881,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "38": {
+        "index": 38,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The strengthening started before the resolving started.",
+        "pair-id": 4882,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "39": {
+        "index": 39,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The strengthening started before the resolving ended.",
+        "pair-id": 4883,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "40": {
+        "index": 40,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The strengthening ended before the resolving started.",
+        "pair-id": 4884,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "41": {
+        "index": 41,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The strengthening ended before the resolving ended.",
+        "pair-id": 4885,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "42": {
+        "index": 42,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the strengthening started.",
+        "pair-id": 4886,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "43": {
+        "index": 43,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving started before the strengthening ended.",
+        "pair-id": 4887,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "44": {
+        "index": 44,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the strengthening started.",
+        "pair-id": 4888,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "45": {
+        "index": 45,
+        "context": "\" We need to resolve the deep - seated causes that have resulted in these problems , \" Wen said in an interview with Hong Kong - based Phoenix Television .   \" This includes handling social contradictions , resolving disputes and strengthening mediation at the grassroots level . \"",
+        "hypothesis": "The resolving ended before the strengthening ended.",
+        "pair-id": 4889,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "46": {
+        "index": 46,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing started before the asking started.",
+        "pair-id": 4890,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "47": {
+        "index": 47,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing started before the asking ended.",
+        "pair-id": 4891,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "48": {
+        "index": 48,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing ended before the asking started.",
+        "pair-id": 4892,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "49": {
+        "index": 49,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing ended before the asking ended.",
+        "pair-id": 4893,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "50": {
+        "index": 50,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The asking started before the briefing started.",
+        "pair-id": 4894,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "51": {
+        "index": 51,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The asking started before the briefing ended.",
+        "pair-id": 4895,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "52": {
+        "index": 52,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The asking ended before the briefing started.",
+        "pair-id": 4896,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "53": {
+        "index": 53,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The asking ended before the briefing ended.",
+        "pair-id": 4897,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "54": {
+        "index": 54,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing started before the saying started.",
+        "pair-id": 4898,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "55": {
+        "index": 55,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing started before the saying ended.",
+        "pair-id": 4899,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "56": {
+        "index": 56,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing ended before the saying started.",
+        "pair-id": 4900,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "57": {
+        "index": 57,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The briefing ended before the saying ended.",
+        "pair-id": 4901,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "58": {
+        "index": 58,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying started before the briefing started.",
+        "pair-id": 4902,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "59": {
+        "index": 59,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying started before the briefing ended.",
+        "pair-id": 4903,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "60": {
+        "index": 60,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying ended before the briefing started.",
+        "pair-id": 4904,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "61": {
+        "index": 61,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying ended before the briefing ended.",
+        "pair-id": 4905,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "62": {
+        "index": 62,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The electing started before the languishing started.",
+        "pair-id": 4906,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "63": {
+        "index": 63,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The electing started before the languishing ended.",
+        "pair-id": 4907,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "64": {
+        "index": 64,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The electing ended before the languishing ended.",
+        "pair-id": 4908,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "65": {
+        "index": 65,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The languishing started before the electing started.",
+        "pair-id": 4909,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "66": {
+        "index": 66,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The languishing ended before the electing started.",
+        "pair-id": 4910,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "67": {
+        "index": 67,
+        "context": "The case languished after Morsi was elected last year in the country \u2019s first free presidential race , although local news outlets and Morsi \u2019s opponents accused militants from Hamas , the Brotherhood \u2019s Palestinian offshoot , of freeing their colleagues .",
+        "hypothesis": "The languishing ended before the electing ended.",
+        "pair-id": 4911,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "68": {
+        "index": 68,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The referring started before the saying started.",
+        "pair-id": 4912,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "69": {
+        "index": 69,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The referring started before the saying ended.",
+        "pair-id": 4913,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "70": {
+        "index": 70,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The referring ended before the saying ended.",
+        "pair-id": 4914,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "71": {
+        "index": 71,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying started before the referring started.",
+        "pair-id": 4915,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "72": {
+        "index": 72,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying ended before the referring started.",
+        "pair-id": 4916,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "73": {
+        "index": 73,
+        "context": "At her regular State Department briefing Thursday , asked about the reactions , Psaki said she had been \u201c referring to all of the voices that have been - we have heard coming - the millions , I should say , coming from Egypt , and how strongly they have voiced their views about his rule .",
+        "hypothesis": "The saying ended before the referring ended.",
+        "pair-id": 4917,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "74": {
+        "index": 74,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding started before the arresting started.",
+        "pair-id": 4918,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "75": {
+        "index": 75,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding started before the arresting ended.",
+        "pair-id": 4919,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "76": {
+        "index": 76,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding ended before the arresting started.",
+        "pair-id": 4920,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "77": {
+        "index": 77,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The arresting started before the holding started.",
+        "pair-id": 4921,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "78": {
+        "index": 78,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The arresting started before the holding ended.",
+        "pair-id": 4922,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "79": {
+        "index": 79,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The arresting ended before the holding started.",
+        "pair-id": 4923,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "80": {
+        "index": 80,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding started before the escaping ended.",
+        "pair-id": 4924,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "81": {
+        "index": 81,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding ended before the escaping started.",
+        "pair-id": 4925,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "82": {
+        "index": 82,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The holding ended before the escaping ended.",
+        "pair-id": 4926,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "83": {
+        "index": 83,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The escaping started before the holding ended.",
+        "pair-id": 4927,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "84": {
+        "index": 84,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The escaping ended before the holding started.",
+        "pair-id": 4928,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "85": {
+        "index": 85,
+        "context": "Morsi and other Brotherhood leaders were arrested Jan. 28 and held in the Wadi Natroun prison north of Cairo , until they escaped two days later .",
+        "hypothesis": "The escaping ended before the holding ended.",
+        "pair-id": 4929,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "86": {
+        "index": 86,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The appearing started before the returning started.",
+        "pair-id": 4930,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "87": {
+        "index": 87,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The appearing started before the returning ended.",
+        "pair-id": 4931,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "88": {
+        "index": 88,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The appearing ended before the returning started.",
+        "pair-id": 4932,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "89": {
+        "index": 89,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The appearing ended before the returning ended.",
+        "pair-id": 4933,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "90": {
+        "index": 90,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The returning started before the appearing started.",
+        "pair-id": 4934,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "91": {
+        "index": 91,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The returning started before the appearing ended.",
+        "pair-id": 4935,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "92": {
+        "index": 92,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The returning ended before the appearing started.",
+        "pair-id": 4936,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "93": {
+        "index": 93,
+        "context": "The leader of the extreme - right Golden Dawn party was returned to custody Thursday after appearing before a Greek magistrate on charges of setting up a criminal organization , part of the government \u2019s crackdown on a party described by Greek and European authorities as neo-Nazi and violent .",
+        "hypothesis": "The returning ended before the appearing ended.",
+        "pair-id": 4937,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "94": {
+        "index": 94,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The ordering started before the holding started.",
+        "pair-id": 4938,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "95": {
+        "index": 95,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The ordering started before the holding ended.",
+        "pair-id": 4939,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "96": {
+        "index": 96,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The ordering ended before the holding started.",
+        "pair-id": 4940,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "97": {
+        "index": 97,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The ordering ended before the holding ended.",
+        "pair-id": 4941,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "98": {
+        "index": 98,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The holding started before the ordering started.",
+        "pair-id": 4942,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "99": {
+        "index": 99,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The holding started before the ordering ended.",
+        "pair-id": 4943,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "100": {
+        "index": 100,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The holding ended before the ordering started.",
+        "pair-id": 4944,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "101": {
+        "index": 101,
+        "context": "The magistrate \u2019s order to remand Nikos Michaloliakos , the first political party leader to face jail since Greece \u2019s seven - year military dictatorship ended in 1974 , came a day after three of his fellow lawmakers facing similar charges were released from custody and told not to leave the country , and a fourth was ordered held pending trial .",
+        "hypothesis": "The holding ended before the ordering ended.",
+        "pair-id": 4945,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "102": {
+        "index": 102,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The supplying started before the accusing started.",
+        "pair-id": 4946,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "103": {
+        "index": 103,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The supplying started before the accusing ended.",
+        "pair-id": 4947,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "104": {
+        "index": 104,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The supplying ended before the accusing ended.",
+        "pair-id": 4948,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "105": {
+        "index": 105,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing started before the supplying started.",
+        "pair-id": 4949,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "106": {
+        "index": 106,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing ended before the supplying started.",
+        "pair-id": 4950,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "107": {
+        "index": 107,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing ended before the supplying ended.",
+        "pair-id": 4951,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "108": {
+        "index": 108,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking started before the reporting started.",
+        "pair-id": 4952,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "109": {
+        "index": 109,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking started before the reporting ended.",
+        "pair-id": 4953,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "110": {
+        "index": 110,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking ended before the reporting ended.",
+        "pair-id": 4954,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "111": {
+        "index": 111,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The reporting started before the taking started.",
+        "pair-id": 4955,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "112": {
+        "index": 112,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The reporting ended before the taking started.",
+        "pair-id": 4956,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "113": {
+        "index": 113,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The reporting ended before the taking ended.",
+        "pair-id": 4957,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "114": {
+        "index": 114,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering started before the returning started.",
+        "pair-id": 4958,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "115": {
+        "index": 115,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering started before the returning ended.",
+        "pair-id": 4959,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "116": {
+        "index": 116,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering ended before the returning started.",
+        "pair-id": 4960,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "117": {
+        "index": 117,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering ended before the returning ended.",
+        "pair-id": 4961,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "118": {
+        "index": 118,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The returning started before the ordering started.",
+        "pair-id": 4962,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "119": {
+        "index": 119,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The returning started before the ordering ended.",
+        "pair-id": 4963,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "120": {
+        "index": 120,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The returning ended before the ordering started.",
+        "pair-id": 4964,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "121": {
+        "index": 121,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The returning ended before the ordering ended.",
+        "pair-id": 4965,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "122": {
+        "index": 122,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The testifying started before the ordering started.",
+        "pair-id": 4966,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "123": {
+        "index": 123,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The testifying started before the ordering ended.",
+        "pair-id": 4967,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "124": {
+        "index": 124,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The testifying ended before the ordering ended.",
+        "pair-id": 4968,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "125": {
+        "index": 125,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering started before the testifying started.",
+        "pair-id": 4969,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "126": {
+        "index": 126,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering ended before the testifying started.",
+        "pair-id": 4970,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "127": {
+        "index": 127,
+        "context": "Later Thursday , a sixth lawmaker , Christos Pappas , the party \u2019s second in command , was also ordered returned to custody after testifying for at least six hours before a magistrate .",
+        "hypothesis": "The ordering ended before the testifying ended.",
+        "pair-id": 4971,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "128": {
+        "index": 128,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The arriving started before the telling started.",
+        "pair-id": 4972,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "129": {
+        "index": 129,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The arriving started before the telling ended.",
+        "pair-id": 4973,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "130": {
+        "index": 130,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The arriving ended before the telling ended.",
+        "pair-id": 4974,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "131": {
+        "index": 131,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The telling started before the arriving started.",
+        "pair-id": 4975,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "132": {
+        "index": 132,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The telling ended before the arriving started.",
+        "pair-id": 4976,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "133": {
+        "index": 133,
+        "context": "Arriving at the capital \u2019s court complex , Pappas told reporters , \u201c Golden Dawn will run in the next elections , whenever they may be . \u201d",
+        "hypothesis": "The telling ended before the arriving ended.",
+        "pair-id": 4977,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "134": {
+        "index": 134,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing started before the taking started.",
+        "pair-id": 4978,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "135": {
+        "index": 135,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing started before the taking ended.",
+        "pair-id": 4979,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "136": {
+        "index": 136,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing ended before the taking started.",
+        "pair-id": 4980,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "137": {
+        "index": 137,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The accusing ended before the taking ended.",
+        "pair-id": 4981,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "138": {
+        "index": 138,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking started before the accusing started.",
+        "pair-id": 4982,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "139": {
+        "index": 139,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking started before the accusing ended.",
+        "pair-id": 4983,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "140": {
+        "index": 140,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking ended before the accusing started.",
+        "pair-id": 4984,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "141": {
+        "index": 141,
+        "context": "Giorgos Patelis , the head of the party \u2019s chapter in Nikaia , near the spot where Fyssas was fatally stabbed , and an officer from the regional police precinct accused of supplying Golden Dawn with information were taken to two other jails in central Greece , state television reported .",
+        "hypothesis": "The taking ended before the accusing ended.",
+        "pair-id": 4985,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "142": {
+        "index": 142,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The tying started before the leaking started.",
+        "pair-id": 4986,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "143": {
+        "index": 143,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The tying started before the leaking ended.",
+        "pair-id": 4987,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "144": {
+        "index": 144,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The tying ended before the leaking started.",
+        "pair-id": 4988,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "145": {
+        "index": 145,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The tying ended before the leaking ended.",
+        "pair-id": 4989,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "146": {
+        "index": 146,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The leaking started before the tying started.",
+        "pair-id": 4990,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "147": {
+        "index": 147,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The leaking started before the tying ended.",
+        "pair-id": 4991,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "148": {
+        "index": 148,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The leaking ended before the tying started.",
+        "pair-id": 4992,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "149": {
+        "index": 149,
+        "context": "The lawmaker has been tied to protection and prostitution rackets as well as blackmail and money laundering , according to secret service documents leaked to the Greek media this week .",
+        "hypothesis": "The leaking ended before the tying ended.",
+        "pair-id": 4993,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "150": {
+        "index": 150,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The striking started before the deciding started.",
+        "pair-id": 4994,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "151": {
+        "index": 151,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The striking started before the deciding ended.",
+        "pair-id": 4995,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "152": {
+        "index": 152,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The striking ended before the deciding started.",
+        "pair-id": 4996,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "153": {
+        "index": 153,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The striking ended before the deciding ended.",
+        "pair-id": 4997,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "154": {
+        "index": 154,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding started before the striking started.",
+        "pair-id": 4998,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "155": {
+        "index": 155,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding started before the striking ended.",
+        "pair-id": 4999,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "156": {
+        "index": 156,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding ended before the striking started.",
+        "pair-id": 5000,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "157": {
+        "index": 157,
+        "context": "But before the testing began , the building adjacent to the Capitol was struck by lightning . The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding ended before the striking ended.",
+        "pair-id": 5001,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "158": {
+        "index": 158,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The sleeping started before the giving ended.",
+        "pair-id": 5002,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "159": {
+        "index": 159,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The sleeping ended before the giving started.",
+        "pair-id": 5003,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "160": {
+        "index": 160,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The sleeping ended before the giving ended.",
+        "pair-id": 5004,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "161": {
+        "index": 161,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The giving started before the sleeping ended.",
+        "pair-id": 5005,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "162": {
+        "index": 162,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The giving ended before the sleeping started.",
+        "pair-id": 5006,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "163": {
+        "index": 163,
+        "context": "'' We said if ( Scott ) would not give us a seat at the table , we would sleep on the floor until ( he ) gave us what we deserved , '' Agnew said .",
+        "hypothesis": "The giving ended before the sleeping ended.",
+        "pair-id": 5007,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "164": {
+        "index": 164,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The packing started before the leaving started.",
+        "pair-id": 5008,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "165": {
+        "index": 165,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The packing started before the leaving ended.",
+        "pair-id": 5009,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "166": {
+        "index": 166,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The packing ended before the leaving ended.",
+        "pair-id": 5010,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "167": {
+        "index": 167,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The leaving started before the packing started.",
+        "pair-id": 5011,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "168": {
+        "index": 168,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The leaving ended before the packing started.",
+        "pair-id": 5012,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "169": {
+        "index": 169,
+        "context": "When they packed up their belongings and left the Capitol Thursday evening , the young activists wondered aloud if there had been some level of divine intervention along the way .",
+        "hypothesis": "The leaving ended before the packing ended.",
+        "pair-id": 5013,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "170": {
+        "index": 170,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding started before the performing started.",
+        "pair-id": 5014,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "171": {
+        "index": 171,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding started before the performing ended.",
+        "pair-id": 5015,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "172": {
+        "index": 172,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding ended before the performing started.",
+        "pair-id": 5016,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "173": {
+        "index": 173,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The deciding ended before the performing ended.",
+        "pair-id": 5017,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "174": {
+        "index": 174,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The performing started before the deciding started.",
+        "pair-id": 5018,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "175": {
+        "index": 175,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The performing started before the deciding ended.",
+        "pair-id": 5019,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "176": {
+        "index": 176,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The performing ended before the deciding started.",
+        "pair-id": 5020,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "177": {
+        "index": 177,
+        "context": "The Department of Management Services decided to perform maintenance on that building \u2019s fire alarm system instead .",
+        "hypothesis": "The performing ended before the deciding ended.",
+        "pair-id": 5021,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "178": {
+        "index": 178,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The trying started before the mustering started.",
+        "pair-id": 5022,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "179": {
+        "index": 179,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The trying started before the mustering ended.",
+        "pair-id": 5023,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "180": {
+        "index": 180,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The trying ended before the mustering started.",
+        "pair-id": 5024,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "181": {
+        "index": 181,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The trying ended before the mustering ended.",
+        "pair-id": 5025,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "182": {
+        "index": 182,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The mustering started before the trying started.",
+        "pair-id": 5026,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "183": {
+        "index": 183,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The mustering started before the trying ended.",
+        "pair-id": 5027,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "184": {
+        "index": 184,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The mustering ended before the trying started.",
+        "pair-id": 5028,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "185": {
+        "index": 185,
+        "context": "The Dream Defenders tried to persuade state lawmakers to call the session themselves , but they could n\u2019t muster the 96 votes needed .",
+        "hypothesis": "The mustering ended before the trying ended.",
+        "pair-id": 5029,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "186": {
+        "index": 186,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The granting started before the taking started.",
+        "pair-id": 5030,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "187": {
+        "index": 187,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The granting started before the taking ended.",
+        "pair-id": 5031,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "188": {
+        "index": 188,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The granting ended before the taking started.",
+        "pair-id": 5032,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "189": {
+        "index": 189,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The taking started before the granting started.",
+        "pair-id": 5033,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "190": {
+        "index": 190,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The taking started before the granting ended.",
+        "pair-id": 5034,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "191": {
+        "index": 191,
+        "context": "ALBANY , N.Y. \u2013 While Christmas marks a traditional time during which governors commute the sentences of a handful of prisoners , Gov. Andrew Cuomo has granted none since taking office in 2011 .",
+        "hypothesis": "The taking ended before the granting started.",
+        "pair-id": 5035,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "192": {
+        "index": 192,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The asking started before the saying started.",
+        "pair-id": 5036,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "193": {
+        "index": 193,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The asking started before the saying ended.",
+        "pair-id": 5037,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "194": {
+        "index": 194,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The asking ended before the saying started.",
+        "pair-id": 5038,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "195": {
+        "index": 195,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The asking ended before the saying ended.",
+        "pair-id": 5039,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "196": {
+        "index": 196,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The saying started before the asking started.",
+        "pair-id": 5040,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "197": {
+        "index": 197,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The saying started before the asking ended.",
+        "pair-id": 5041,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "198": {
+        "index": 198,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The saying ended before the asking started.",
+        "pair-id": 5042,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "199": {
+        "index": 199,
+        "context": "When asked if any clemency was forthcoming this year , spokesman Richard Azzopardi said that '' all requests are reviewed . ''   There does n\u2019t appear to be a public outcry over clemencies , and a governor can grant them at any time .",
+        "hypothesis": "The saying ended before the asking ended.",
+        "pair-id": 5043,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "200": {
+        "index": 200,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The turning started before the coming started.",
+        "pair-id": 5044,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "201": {
+        "index": 201,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The turning started before the coming ended.",
+        "pair-id": 5045,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "202": {
+        "index": 202,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The turning ended before the coming started.",
+        "pair-id": 5046,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "203": {
+        "index": 203,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The turning ended before the coming ended.",
+        "pair-id": 5047,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "204": {
+        "index": 204,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming started before the turning started.",
+        "pair-id": 5048,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "205": {
+        "index": 205,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming started before the turning ended.",
+        "pair-id": 5049,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "206": {
+        "index": 206,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming ended before the turning started.",
+        "pair-id": 5050,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "207": {
+        "index": 207,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming ended before the turning ended.",
+        "pair-id": 5051,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "208": {
+        "index": 208,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The haunting started before the coming started.",
+        "pair-id": 5052,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "209": {
+        "index": 209,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The haunting started before the coming ended.",
+        "pair-id": 5053,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "210": {
+        "index": 210,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The haunting ended before the coming started.",
+        "pair-id": 5054,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "211": {
+        "index": 211,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming started before the haunting started.",
+        "pair-id": 5055,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "212": {
+        "index": 212,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming started before the haunting ended.",
+        "pair-id": 5056,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "213": {
+        "index": 213,
+        "context": "Papa believes Cuomo worries that if a commutation were to turn out badly , it could come back to haunt him , possibly in a presidential contest down the road .",
+        "hypothesis": "The coming ended before the haunting started.",
+        "pair-id": 5057,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "214": {
+        "index": 214,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The convicting started before the regaining started.",
+        "pair-id": 5058,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "215": {
+        "index": 215,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The convicting started before the regaining ended.",
+        "pair-id": 5059,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "216": {
+        "index": 216,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The convicting ended before the regaining ended.",
+        "pair-id": 5060,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "217": {
+        "index": 217,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The regaining started before the convicting started.",
+        "pair-id": 5061,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "218": {
+        "index": 218,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The regaining ended before the convicting started.",
+        "pair-id": 5062,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "219": {
+        "index": 219,
+        "context": "'' Historically , other governors have done this around Christmas , '' added John O\u2019Hara , a Brooklyn lawyer who was convicted of voter fraud in a convoluted case involving a battle he had with the borough \u2019s Democratic machine . He has since regained his ability to practice law , but continues to seek a pardon for his felony conviction .",
+        "hypothesis": "The regaining ended before the convicting ended.",
+        "pair-id": 5063,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "220": {
+        "index": 220,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The entering started before the beginning started.",
+        "pair-id": 5064,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "221": {
+        "index": 221,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The entering started before the beginning ended.",
+        "pair-id": 5065,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "222": {
+        "index": 222,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The entering ended before the beginning ended.",
+        "pair-id": 5066,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "223": {
+        "index": 223,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The beginning started before the entering started.",
+        "pair-id": 5067,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "224": {
+        "index": 224,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The beginning ended before the entering started.",
+        "pair-id": 5068,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "225": {
+        "index": 225,
+        "context": "Mitchell , 39 , began to weep upon entering the courtroom , handcuffed and somewhat haggard after a month in jail on Rikers Island and glimpsing a row of mostly elderly men , presumably relatives , who were sitting with the father of her two teenage children .",
+        "hypothesis": "The beginning ended before the entering ended.",
+        "pair-id": 5069,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "226": {
+        "index": 226,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering started before the paying started.",
+        "pair-id": 5070,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "227": {
+        "index": 227,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering started before the paying ended.",
+        "pair-id": 5071,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "228": {
+        "index": 228,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering ended before the paying started.",
+        "pair-id": 5072,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "229": {
+        "index": 229,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering ended before the paying ended.",
+        "pair-id": 5073,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "230": {
+        "index": 230,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The paying started before the ordering started.",
+        "pair-id": 5074,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "231": {
+        "index": 231,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The paying started before the ordering ended.",
+        "pair-id": 5075,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "232": {
+        "index": 232,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The paying ended before the ordering started.",
+        "pair-id": 5076,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "233": {
+        "index": 233,
+        "context": "She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The paying ended before the ordering ended.",
+        "pair-id": 5077,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "234": {
+        "index": 234,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The writing started before the describing started.",
+        "pair-id": 5078,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "235": {
+        "index": 235,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The writing started before the describing ended.",
+        "pair-id": 5079,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "236": {
+        "index": 236,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The writing ended before the describing started.",
+        "pair-id": 5080,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "237": {
+        "index": 237,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The writing ended before the describing ended.",
+        "pair-id": 5081,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "238": {
+        "index": 238,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The describing started before the writing started.",
+        "pair-id": 5082,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "239": {
+        "index": 239,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The describing started before the writing ended.",
+        "pair-id": 5083,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "240": {
+        "index": 240,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The describing ended before the writing started.",
+        "pair-id": 5084,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "241": {
+        "index": 241,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell .",
+        "hypothesis": "The describing ended before the writing ended.",
+        "pair-id": 5085,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "242": {
+        "index": 242,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The doing started before the admitting started.",
+        "pair-id": 5086,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "243": {
+        "index": 243,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The doing started before the admitting ended.",
+        "pair-id": 5087,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "244": {
+        "index": 244,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The doing ended before the admitting started.",
+        "pair-id": 5088,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "245": {
+        "index": 245,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The doing ended before the admitting ended.",
+        "pair-id": 5089,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "246": {
+        "index": 246,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The admitting started before the doing started.",
+        "pair-id": 5090,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "247": {
+        "index": 247,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The admitting started before the doing ended.",
+        "pair-id": 5091,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "248": {
+        "index": 248,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The admitting ended before the doing started.",
+        "pair-id": 5092,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "249": {
+        "index": 249,
+        "context": "Both testified against Mitchell , and in doing so , admitted that in hindsight , all her talk of curses and evil spirits seemed far - fetched , but at the time , unsettling .",
+        "hypothesis": "The admitting ended before the doing ended.",
+        "pair-id": 5093,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "250": {
+        "index": 250,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The wanting started before the going started.",
+        "pair-id": 5094,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "251": {
+        "index": 251,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The wanting started before the going ended.",
+        "pair-id": 5095,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "252": {
+        "index": 252,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The wanting ended before the going started.",
+        "pair-id": 5096,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "253": {
+        "index": 253,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The wanting ended before the going ended.",
+        "pair-id": 5097,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "254": {
+        "index": 254,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going started before the wanting started.",
+        "pair-id": 5098,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "255": {
+        "index": 255,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going started before the wanting ended.",
+        "pair-id": 5099,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "256": {
+        "index": 256,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going ended before the wanting started.",
+        "pair-id": 5100,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "257": {
+        "index": 257,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going ended before the wanting ended.",
+        "pair-id": 5101,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "258": {
+        "index": 258,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The convicting started before the sentencing started.",
+        "pair-id": 5102,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "259": {
+        "index": 259,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The convicting started before the sentencing ended.",
+        "pair-id": 5103,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "260": {
+        "index": 260,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The convicting ended before the sentencing started.",
+        "pair-id": 5104,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "261": {
+        "index": 261,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The convicting ended before the sentencing ended.",
+        "pair-id": 5105,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "262": {
+        "index": 262,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The sentencing started before the convicting started.",
+        "pair-id": 5106,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "263": {
+        "index": 263,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The sentencing started before the convicting ended.",
+        "pair-id": 5107,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "264": {
+        "index": 264,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The sentencing ended before the convicting started.",
+        "pair-id": 5108,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "265": {
+        "index": 265,
+        "context": "PRISON SENTENCE FOR MANHATTAN FORTUNETELLER    NEW YORK - Sylvia Mitchell , the Manhattan fortuneteller whose ornate Greenwich Village parlor and air of uptown sophistication attracted well - to - do , distraught clients who preferred the finer things in life , was sentenced to 5 to 15 years in prison on Thursday , a month after a jury convicted her of grand larceny .",
+        "hypothesis": "The sentencing ended before the convicting ended.",
+        "pair-id": 5109,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "266": {
+        "index": 266,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going started before the starting started.",
+        "pair-id": 5110,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "267": {
+        "index": 267,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going started before the starting ended.",
+        "pair-id": 5111,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "268": {
+        "index": 268,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The going ended before the starting ended.",
+        "pair-id": 5112,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "269": {
+        "index": 269,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The starting started before the going started.",
+        "pair-id": 5113,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "270": {
+        "index": 270,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The starting ended before the going started.",
+        "pair-id": 5114,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "271": {
+        "index": 271,
+        "context": "\u201c I want to go back to school and start a new profession and start my life again , \u201d she said .",
+        "hypothesis": "The starting ended before the going ended.",
+        "pair-id": 5115,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "272": {
+        "index": 272,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The handing started before the ordering started.",
+        "pair-id": 5116,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "273": {
+        "index": 273,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The handing started before the ordering ended.",
+        "pair-id": 5117,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "274": {
+        "index": 274,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The handing ended before the ordering started.",
+        "pair-id": 5118,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "275": {
+        "index": 275,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The handing ended before the ordering ended.",
+        "pair-id": 5119,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "276": {
+        "index": 276,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering started before the handing started.",
+        "pair-id": 5120,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "277": {
+        "index": 277,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering started before the handing ended.",
+        "pair-id": 5121,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "278": {
+        "index": 278,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering ended before the handing started.",
+        "pair-id": 5122,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "279": {
+        "index": 279,
+        "context": "In handing down the sentence , Justice Gregory Carro of state Supreme Court acknowledged that the penalty was harsher than that requested by prosecutors at Thursday \u2019s hearing .   She was ordered to pay more than $ 110,000 in restitution to the two victims in the case , something her lawyer , Kenneth Gribetz , said he came prepared to do with a check from an escrow account .",
+        "hypothesis": "The ordering ended before the handing ended.",
+        "pair-id": 5123,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "280": {
+        "index": 280,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing started before the writing started.",
+        "pair-id": 5124,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "281": {
+        "index": 281,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing started before the writing ended.",
+        "pair-id": 5125,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "282": {
+        "index": 282,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing ended before the writing started.",
+        "pair-id": 5126,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "283": {
+        "index": 283,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing ended before the writing ended.",
+        "pair-id": 5127,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "284": {
+        "index": 284,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing started before the writing started.",
+        "pair-id": 5128,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "285": {
+        "index": 285,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing started before the writing ended.",
+        "pair-id": 5129,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "286": {
+        "index": 286,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing ended before the writing started.",
+        "pair-id": 5130,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "287": {
+        "index": 287,
+        "context": "Both victims , Lee Choong and Debra Saalfield , wrote letters describing the pain caused by their dealings with Mitchell . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The writing ended before the writing ended.",
+        "pair-id": 5131,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "288": {
+        "index": 288,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The further hurting started before the staring started.",
+        "pair-id": 5132,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "not-entailed"
+    },
+    "289": {
+        "index": 289,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The further hurting started before the staring ended.",
+        "pair-id": 5133,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "290": {
+        "index": 290,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The further hurting ended before the staring started.",
+        "pair-id": 5134,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "291": {
+        "index": 291,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The further hurting ended before the staring ended.",
+        "pair-id": 5135,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "292": {
+        "index": 292,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The staring started before the further hurting started.",
+        "pair-id": 5136,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "entailed"
+    },
+    "293": {
+        "index": 293,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The staring started before the further hurting ended.",
+        "pair-id": 5137,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    },
+    "294": {
+        "index": 294,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The staring ended before the further hurting started.",
+        "pair-id": 5138,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "not-entailed",
+        "predicted_label": "not-entailed"
+    },
+    "295": {
+        "index": 295,
+        "context": "Saalfield said that the news media coverage of the case had further hurt her . At a recent wedding rehearsal dinner that she attended , she wrote , \u201c one of the guests stared at me at great length and put an ' L \u2019 for loser on her face while looking at me . \u201d",
+        "hypothesis": "The staring ended before the further hurting ended.",
+        "pair-id": 5139,
+        "type-of-inference": "temporal-relation",
+        "split": "dev",
+        "true_label": "entailed",
+        "predicted_label": "entailed"
+    }
+}
