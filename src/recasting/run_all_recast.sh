@@ -83,3 +83,6 @@ python recast_red_rte.py \
    --out_train "../../data/train/"  \
    --out_dev "../../data/dev/"  \
    --out_test "../../data/test/"
+
+#Convert json data files to tsvs
+python create_recasted_tsv.py

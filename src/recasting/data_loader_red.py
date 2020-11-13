@@ -352,11 +352,20 @@ def main():
 
 
 	## Create train, dev, test splits:
-	total_docs = list(red_all_df.docid.unique())
-	dev_docs = random.Random(SEED).sample(total_docs,k=int(len(total_docs)*0.1))
-	remaining_docs = set(total_docs) - set(dev_docs)
-	test_docs = random.Random(SEED).sample(remaining_docs,k=int(len(total_docs)*0.1))
+	#total_docs = list(red_all_df.docid.unique())
+	#dev_docs = random.Random(SEED).sample(total_docs,k=int(len(total_docs)*0.1))
+	#remaining_docs = set(total_docs) - set(dev_docs)
+	#test_docs = random.Random(SEED).sample(remaining_docs,k=int(len(total_docs)*0.1))
+
+        ## Final split docs based on above code written below for reproducibility:
+	dev_docs = ['NYT_ENG_20130816.0151', 'NYT_ENG_20131225.0200','NYT_ENG_20130712.0047',
+                     'NYT_ENG_20131115.0084','NYT_ENG_20131003.0269', 'AFP_ENG_20100601.0724']
 	
+	test_docs = ['d7369ce92ed0b6327412c705dbbab654.mpdf', 'NYT_ENG_20130603.0111', 
+		    '2d2a4ddb1c8f4a669541704f9fb78472.mpdf', 'd6bc66d7c8423368aaa8d789b5bdf5db.mpdf', 
+		    'd4698e3ad06f896058ade2e8f3a09577.mpdf', 'NYT_ENG_20131220.0283', 
+		     'misc.legal.moderated_20050129.2225']
+
 	red_all_df['split'] = red_all_df.docid.map(lambda x:create_red_split(x,dev_docs,test_docs))
 
 	red_all_df['corpus'] = "RED"

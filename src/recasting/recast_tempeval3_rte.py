@@ -300,10 +300,16 @@ def main():
 
 
     ## Create a list of dev docs by randomly sampling documents from train data
-    train_full_docs = list(te3[te3.corpus!='te3-platinum']['docid'].unique())
+    #train_full_docs = list(te3[te3.corpus!='te3-platinum']['docid'].unique())
     test_docs = te3[te3.corpus=='te3-platinum']['docid'].unique() ## entire te3-platinum corpus is test set
-    dev_docs = random.Random(SEED).sample(train_full_docs, len(test_docs))
-
+    #dev_docs = random.Random(SEED).sample(train_full_docs, len(test_docs))
+    
+    #dev_docs are generated from the command above and listed here for reproducibility
+    dev_docs = ['PRI19980205.2000.1890', 'wsj_0520', 'wsj_0806', 'wsj_0505', 'wsj_0674', 
+                'wsj_0938', 'wsj_1014', 'wsj_0176', 'wsj_0168', 'wsj_0144', 'wsj_0184', 
+                'ea980120.1830.0071', 'APW19980807.0261', 'NYT19981026.0446', 'APW19980818.0515', 
+                'NYT20000105.0325', 'NYT20000406.0002', 'APW20000405.0276', 'NYT20000330.0406']
+    
     ## Create a split column in the data
     te3['split'] = te3.docid.map(lambda x: create_tb_split(x, dev_docs, test_docs))
 
