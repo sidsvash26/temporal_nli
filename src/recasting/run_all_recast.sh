@@ -29,6 +29,9 @@ mkdir -p "../../data/train/"
 mkdir -p "../../data/dev/"
 mkdir -p "../../data/test/"
 
+## Download stanza english package
+python init_stanza.py
+
 ## Recast UDS-T Duration
 echo "Initialising recasting of UDST Duration"
 python recast_temporal_duration_rte.py \
