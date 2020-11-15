@@ -1,6 +1,6 @@
 # Temporal Reasoning in NLI
 This repo contains the scripts to build the Temporal NLI dataset and also to run different models on it as described in the following paper:
-> Vashishtha, SIddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, Aaron Steven White. [Temporal Reasoning in Natural Language Inference](https://www.aclweb.org/anthology/2020.findings-emnlp.363/). Findings of the Association for Computational Linguistics: EMNLP 2020, November, 2020. 
+> Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, Aaron Steven White. [Temporal Reasoning in Natural Language Inference](https://www.aclweb.org/anthology/2020.findings-emnlp.363/). Findings of the Association for Computational Linguistics: EMNLP 2020, November, 2020. 
 
 ```latex
 @inproceedings{vashishtha-etal-2020-temporal,
@@ -41,5 +41,8 @@ There are two steps to creating our recasted datasets:
 # Train from Scratch or Evaluate best models
 To train on our models from scratch or to use our best models, follow instructions [here](https://github.com/sidsvash26/temporal_nli/tree/main/src/recasting). Our roberta models can be downloaded [here](https://www.dropbox.com/s/f5tt2vpbfklr91u/roberta-large-temporal-nli.tar.gz?dl=0)
 
-
+# Updates from the first published version:
+We made the following updates to our recasted data from the first published version:
+1. To get the verb inflections, we use [English Unimorph](https://github.com/unimorph/eng). If any inflection is not found in Unimorph, we back-off to [LemmInflect](https://pypi.org/project/lemminflect/)
+2. We added copular predicates from TempEval3, TimeBank-Dense, and RED corpus to our recasted data. We parse each corpus through [Stanza](https://stanfordnlp.github.io/stanza/) to get the dependency trees of sentences in the corpus and then generate hypothesis for the NLI pair using rules described in the paper.  
  
