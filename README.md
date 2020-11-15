@@ -39,7 +39,7 @@ There are two steps to creating our recasted datasets:
 2. Run recasting scripts. Instructions [here](https://github.com/sidsvash26/temporal_nli/tree/main/src/recasting)
 
 # Train from Scratch or Evaluate best models
-To train on our models from scratch or to use our best models, follow instructions [here](https://github.com/sidsvash26/temporal_nli/tree/main/src/recasting). Our roberta models can be downloaded [here](https://www.dropbox.com/s/f5tt2vpbfklr91u/roberta-large-temporal-nli.tar.gz?dl=0)
+To train on our models from scratch or to use our best models, follow instructions [here](https://github.com/sidsvash26/temporal_nli/tree/main/src/recasting). Our saved roberta models can be downloaded by following instructions [here](https://github.com/sidsvash26/temporal_nli/tree/main/saved_models/)
 
 # Updates from the first published version:
 We made the following updates to our recasted data from the first published version:
