@@ -22,7 +22,7 @@ python run_finetuning_nli_2gpus.py \
           --pre_model_path "roberta-large" \
           --train_folder "../../../data/train/" \
           --dev_folder "../../../data/dev/" \
-          --test_folder "../../data/test/" \
+          --test_folder "../../../data/test/" \
           --train_file "train-temporal-duration-data.tsv" \
           --dev_file "dev-temporal-duration-data.tsv" \
           --test_file "test-temporal-duration-data.tsv" \
